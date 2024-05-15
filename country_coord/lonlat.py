@@ -2,6 +2,10 @@
 
 def get_coordinates(country):
     coordinates = {
+        "West Africa": {
+            "longitude": (-25, 25),
+            "latitude": (0, 25)
+        },
         "Ghana": {
             "longitude": (-3.5, 1.2),
             "latitude": (4, 11.5)
