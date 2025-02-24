@@ -1,0 +1,227 @@
+{
+    "West Africa": {
+        "longitude": [-25, 25],
+        "latitude": [0, 25]
+    },
+    "Gulf of Guinea": {
+        "longitude": [-15, 10],
+        "latitude": [-2, 10]
+    },
+    "Brazil": {
+        "longitude": [-73.9, -34.8],
+        "latitude": [-33.7, 5.3]
+    },
+    "Ghana": {
+        "longitude": [-3.5, 1.2],
+        "latitude": [4, 11.5]
+    },
+    "Algeria": {
+        "longitude": [-8.7, 11.8],
+        "latitude": [18.9, 37.1]
+    },
+    "Benin": {
+        "longitude": [0.8, 3.8],
+        "latitude": [6.2, 12.4]
+    },
+    "Botswana": {
+        "longitude": [19.9, 29.4],
+        "latitude": [-26.9, -17.8]
+    },
+    "Burkina Faso": {
+        "longitude": [-5.5, 2.4],
+        "latitude": [9.4, 15.1]
+    },
+    "Burundi": {
+        "longitude": [28.8, 30.9],
+        "latitude": [-4.5, -2.3]
+    },
+    "Cabo Verde": {
+        "longitude": [-25.3, -22.6],
+        "latitude": [14.8, 17.2]
+    },
+    "Cameroon": {
+        "longitude": [8.5, 16.2],
+        "latitude": [1.7, 13.1]
+    },
+    "Central African Republic": {
+        "longitude": [14.4, 27.5],
+        "latitude": [2.3, 11.0]
+    },
+    "Chad": {
+        "longitude": [13.5, 24.0],
+        "latitude": [7.4, 23.4]
+    },
+    "Comoros": {
+        "longitude": [43.2, 44.5],
+        "latitude": [-12.4, -11.3]
+    },
+    "Congo [Brazzaville]": {
+        "longitude": [11.1, 18.6],
+        "latitude": [-5.0, 3.7]
+    },
+    "Congo [Kinshasa]": {
+        "longitude": [12.0, 31.3],
+        "latitude": [-13.5, 5.4]
+    },
+    "Djibouti": {
+        "longitude": [41.7, 43.4],
+        "latitude": [10.9, 12.7]
+    },
+    "Egypt": {
+        "longitude": [24.7, 35.0],
+        "latitude": [22.0, 31.7]
+    },
+    "Equatorial Guinea": {
+        "longitude": [5.6, 11.3],
+        "latitude": [-1.5, 3.8]
+    },
+    "Eritrea": {
+        "longitude": [36.4, 43.1],
+        "latitude": [12.4, 18.0]
+    },
+    "Eswatini": {
+        "longitude": [30.8, 32.1],
+        "latitude": [-27.3, -25.7]
+    },
+    "Ethiopia": {
+        "longitude": [32.9, 47.9],
+        "latitude": [3.4, 14.9]
+    },
+    "Gabon": {
+        "longitude": [8.5, 14.5],
+        "latitude": [-3.9, 2.3]
+    },
+    "Gambia": {
+        "longitude": [-16.8, -13.8],
+        "latitude": [13.1, 13.8]
+    },
+    "Guinea": {
+        "longitude": [-15.0, -7.6],
+        "latitude": [7.2, 12.7]
+    },
+    "Guinea-Bissau": {
+        "longitude": [-16.7, -13.7],
+        "latitude": [11.0, 12.7]
+    },
+    "Ivory Coast": {
+        "longitude": [-8.6, -2.5],
+        "latitude": [4.3, 10.7]
+    },
+    "Kenya": {
+        "longitude": [33.9, 41.9],
+        "latitude": [-4.7, 5.0]
+    },
+    "Lesotho": {
+        "longitude": [27.0, 29.5],
+        "latitude": [-30.7, -28.6]
+    },
+    "Liberia": {
+        "longitude": [-11.5, -7.4],
+        "latitude": [4.2, 8.6]
+    },
+    "Libya": {
+        "longitude": [9.3, 25.2],
+        "latitude": [19.5, 33.2]
+    },
+    "Madagascar": {
+        "longitude": [43.2, 50.5],
+        "latitude": [-25.6, -11.9]
+    },
+    "Malawi": {
+        "longitude": [32.7, 35.9],
+        "latitude": [-17.1, -9.4]
+    },
+    "Mali": {
+        "longitude": [-12.3, 4.3],
+        "latitude": [10.1, 25.0]
+    },
+    "Mauritania": {
+        "longitude": [-17.1, -4.8],
+        "latitude": [14.7, 27.3]
+    },
+    "Mauritius": {
+        "longitude": [57.3, 63.5],
+        "latitude": [-20.6, -10.3]
+    },
+    "Morocco": {
+        "longitude": [-17.0, -1.0],
+        "latitude": [21.4, 36.0]
+    },
+    "Mozambique": {
+        "longitude": [30.2, 40.8],
+        "latitude": [-26.9, -10.3]
+    },
+    "Namibia": {
+        "longitude": [11.7, 25.2],
+        "latitude": [-28.6, -16.9]
+    },
+    "Niger": {
+        "longitude": [0.2, 16.0],
+        "latitude": [11.7, 23.5]
+    },
+    "Nigeria": {
+        "longitude": [2.7, 14.6],
+        "latitude": [4.3, 13.9]
+    },
+    "Rwanda": {
+        "longitude": [28.8, 30.9],
+        "latitude": [-2.8, -1.1]
+    },
+    "Sao Tome and Principe": {
+        "longitude": [6.5, 7.5],
+        "latitude": [0.0, 1.7]
+    },
+    "Senegal": {
+        "longitude": [-17.7, -11.3],
+        "latitude": [12.3, 16.7]
+    },
+    "Seychelles": {
+        "longitude": [55.2, 56.3],
+        "latitude": [-5.0, -4.0]
+    },
+    "Sierra Leone": {
+        "longitude": [-13.3, -10.2],
+        "latitude": [6.9, 9.9]
+    },
+    "Somalia": {
+        "longitude": [41.0, 51.4],
+        "latitude": [-1.7, 12.0]
+    },
+    "South Africa": {
+        "longitude": [16.5, 32.9],
+        "latitude": [-34.8, -22.1]
+    },
+    "South Sudan": {
+        "longitude": [24.2, 35.9],
+        "latitude": [3.5, 12.2]
+    },
+    "Sudan": {
+        "longitude": [21.8, 38.6],
+        "latitude": [8.7, 22.0]
+    },
+    "Tanzania": {
+        "longitude": [29.3, 40.4],
+        "latitude": [-11.7, -0.9]
+    },
+    "Togo": {
+        "longitude": [-0.1, 1.8],
+        "latitude": [6.1, 11.1]
+    },
+    "Tunisia": {
+        "longitude": [7.5, 11.6],
+        "latitude": [30.2, 37.5]
+    },
+    "Uganda": {
+        "longitude": [29.5, 35.0],
+        "latitude": [-1.5, 4.2]
+    },
+    "Zambia": {
+        "longitude": [21.9, 33.7],
+        "latitude": [-18.1, -8.2]
+    },
+    "Zimbabwe": {
+        "longitude": [25.2, 33.1],
+        "latitude": [-22.4, -15.6]
+    }
+    
+}
